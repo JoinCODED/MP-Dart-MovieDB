@@ -3,6 +3,7 @@
 Create a movie recommendation command line application that asks the user for a genre and returns a random movie name.
 
 - Fork and clone [this](https://github.com/JoinCODED/MP-Dart-MovieDB) repository.
+- Open `pubspec.yaml` and run `pub get`.
 - Make sure you have an api key for the movie database. and store it in the `API_KEY` constant.
 - The http package is already imported for you.
 - You can refer to the package [documentation](https://pub.dev/packages/http) for more information.
