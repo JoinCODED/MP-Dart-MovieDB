@@ -1,0 +1,12 @@
+name: MP
+description: >-
+version: 1.0.0
+homepage: ''
+documentation: ''
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies: {http: ^0.13.4}
+
+dev_dependencies:
